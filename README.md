@@ -7,26 +7,38 @@ of pregnancy, including ovulation, conception, signs and symptoms, foetus develo
 **Features**
 
 Intelligent Responses: The Pregbot provides accurate and helpful responses to common questions and concerns related to pregnancy.
+
 Multiple Topics: It covers a wide range of pregnancy-related topics, including ovulation, conception, signs and symptoms, foetus development, signs of labour, and childbirth.
+
 Personalized Recommendations: The Pregbot can offer personalized recommendations based on the user's specific inquiries and circumstances.
 
 **Technologies Used**
---Python: The chatbot is built using the Python programming language.
---Natural Language Processing (NLP): It leverages NLTK techniques to understand and interpret user queries.
--Machine Learning: The chatbot employs machine learning algorithms to analyze and generate responses based on user input.
+
+Python: The chatbot is built using the Python programming language.
+
+Natural Language Processing (NLP): It leverages NLTK techniques to understand and interpret user queries.
+
+Machine Learning: The chatbot employs machine learning algorithms to analyze and generate responses based on user input.
 
 **Installation**
--Clone the repository: git clone (https://github.com/Graceemeruwa/Pregbot.git)
--Navigate to the project directory: cd Pregbot
--Install the required dependencies: pip install -r requirements.txt
--Run the chatbot: python Pregbot.py
+
+Clone the repository: git clone (https://github.com/Graceemeruwa/Pregbot.git)
+
+Navigate to the project directory: cd Pregbot
+
+Install the required dependencies: pip install -r requirements.txt
+
+Run the chatbot: python Pregbot.py
 
 **Usage**
 
--Start the Pregbot by running the chatbot.py script.
--Once the chatbot is running, you can begin interacting by typing your questions or concerns related to pregnancy.
--The Pregbot will analyze your input and provide appropriate responses based on the topic of your query.
--Continue the conversation by typing additional questions or choose to exit the chatbot at any time.
+Start the Pregbot by running the chatbot.py script.
+
+Once the chatbot is running, you can begin interacting by typing your questions or concerns related to pregnancy.
+
+The Pregbot will analyze your input and provide appropriate responses based on the topic of your query.
+
+Continue the conversation by typing additional questions or choose to exit the chatbot at any time.
 
 **Examples**
 
