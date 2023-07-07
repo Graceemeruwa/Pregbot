@@ -11,8 +11,8 @@ Multiple Topics: It covers a wide range of pregnancy-related topics, including o
 Personalized Recommendations: The Pregbot can offer personalized recommendations based on the user's specific inquiries and circumstances.
 
 **Technologies Used**
--Python: The chatbot is built using the Python programming language.
--Natural Language Processing (NLP): It leverages NLTK techniques to understand and interpret user queries.
+--Python: The chatbot is built using the Python programming language.
+--Natural Language Processing (NLP): It leverages NLTK techniques to understand and interpret user queries.
 -Machine Learning: The chatbot employs machine learning algorithms to analyze and generate responses based on user input.
 
 **Installation**
